@@ -1,0 +1,5 @@
+console.writeline("chair")
+console.writeline("table")
+console.writeline("almira")
+console.writeline("bed")
+console.writeline("books")
